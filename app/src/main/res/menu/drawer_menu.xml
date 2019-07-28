@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+        <group android:checkableBehavior="single"
+         android:id="@+id/fit_fragments">
+            <item
+                    android:id="@+id/nav_bmi"
+                    android:icon="@drawable/bmi_icon"
+                    android:title="@string/nav_bmi" />
+            <item
+                    android:id="@+id/nav_calories"
+                    android:icon="@drawable/calories_icon"
+                    android:title="@string/nav_calories" />
+            <item
+                    android:id="@+id/food_nutirion"
+                    android:icon="@drawable/food_calories_icon"
+                    android:title="@string/food_nutirion" />
+
+        </group>
+    <group android:checkableBehavior="none"
+           android:id="@+id/fit_options">
+        <item
+                android:id="@+id/saved_items"
+                android:icon="@drawable/store_icon"
+                android:title="@string/saved" />
+
+    </group>
+</menu>

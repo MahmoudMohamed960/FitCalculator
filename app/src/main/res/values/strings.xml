@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">FitCalculator</string>
+    <string name="nav_bmi">Body Mass Index</string>
+    <string name="nav_calories">Body Calories Need</string>
+    <string name="nav_food_calories">Food Calories</string>
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+    <string name="gander_female">FEMALE</string>
+    <string name="gander_male">MALE</string>
+    <string name="height">HEIGHT</string>
+    <string name="height_unit">cm</string>
+    <string name="age">AGE</string>
+    <string name="weight">WEIGHT</string>
+    <string name="btn_bmi">CALCULATE BMI</string>
+    <string name="result">Your Result</string>
+    <string name="underweight_type">UNDERWEIGHT</string>
+    <string name="underweight_range_title">Underweight BMI range</string>
+    <string name="underweight_range">less than 18.5 kg/m2</string>
+    <string name="underweight_description">Keep in mind that an underweight BMI calculation may pose certain health
+        risks.
+    </string>
+    <string name="normal_type">NORMAL</string>
+    <string name="normal_range_title">Normal BMI range</string>
+    <string name="normal_range">18.5-24.5 kg/m2</string>
+    <string name="normal_description">This healthy weight helps reduce your risk of serious health conditions and means
+        you’re close to your fitness goals.
+    </string>
+    <string name="overweight_type">OVERWEIGHT</string>
+    <string name="overweight_range_title">Overweight BMI range</string>
+    <string name="overweight_range">25-29.9 kg/m2</string>
+    <string name="overweight_description">Being overweight may increase your risk of cardiovascular disease.</string>
+    <string name="obese_type">OBESE</string>
+    <string name="obese_range_title">Obese BMI range</string>
+    <string name="obese_range">more than 30 kg/m2</string>
+    <string name="obese_description">People with obesity are at increased risk for many diseases and health conditions
+    </string>
+    <string name="save">SAVE RESULT</string>
+    <string name="recalculate_bmi">RE-CALCULATE YOUR BMI</string>
+    <string name="screen_shot_popup">Screen</string>
+    <string name="item_popup">Item</string>
+    <string name="close_popup">Close</string>
+    <string name="toast_saved_image">image saved in device storage,path: FitCalcualtor/</string>
+    <string name="language_en">English</string>
+    <string name="language_ar">عربي</string>
+    <string name="saved">Saved</string>
+    <string name="alert_delete_title">Attention</string>
+    <string name="alert_delete_messege">Are you want to delete this item ?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="btn_calories">Calcualte Calories Need</string>
+    <string name="calories_popup_text">Physical exertion</string>
+    <string name="no_items">No Items Founded</string>
+    <string name="food_nutirion">Nutrients</string>
+    <string name="food">Food</string>
+    <string name="execpetion_id">Oops,This item already exisit.</string>
+    <string name="txt_category">Category</string>
+    <string name="vitamin">Vitamin B12</string>
+    <string name="food_calories">Calories</string>
+    <string name="fat_ratio">Fat</string>
+    <string name="protein_ratio">Protein</string>
+    <array name="physical_state">
+        <item>Very little or no exercise</item>
+        <item>Light exercise /Sports 2-3 time per weak</item>
+        <item>Moderate exercise /Sports 3-5 days per weak</item>
+        <item>Hard exercise /Sports 6-7 days per weak</item>
+        <item>Very Hard exercise /Sports 2 time per day</item>
+    </array>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#121229</color>
+    <color name="colorPrimaryLight">#2c2c44</color>
+    <color name="disableColor">#4c4c5c</color>
+    <color name="colorAccent">#e6245e</color>
+    <color name="green">#32bb75</color>
+    <color name="save_button">#23273c</color>
+    <color name="white">#fff</color>
+</resources>

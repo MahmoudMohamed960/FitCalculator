@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">ألة اللياقة</string>
+    <string name="nav_bmi">حساب كتلة الجسم</string>
+    <string name="nav_calories">حساب السعرات المطلوبة</string>
+    <string name="nav_food_calories">حساب سعرات الطعام</string>
+    <string name="open_drawer">فتح القائمة</string>
+    <string name="close_drawer">غلق القائمة</string>
+    <string name="gander_female">انثي</string>
+    <string name="gander_male"> ذكر</string>
+    <string name="height">الطول</string>
+    <string name="height_unit">سم</string>
+    <string name="age">العمر</string>
+    <string name="weight">الوزن</string>
+    <string name="btn_bmi">احسب كتلة الجسم</string>
+    <string name="result">النتيجة</string>
+    <string name="underweight_type">نقص وزن</string>
+    <string name="underweight_range_title"> معدل النقص في الوزن</string>
+    <string name="underweight_range">اقل من 18.5 كجم\\م2</string>
+    <string name="underweight_description">ضع في اعتبارك أن حساب مؤشر كتلة الجسم الناقص في الوزن قد يشكل بعض المخاطر الصحية.</string>
+    <string name="normal_type">طبيعي</string>
+    <string name="normal_range_title">معدل الطبيعي</string>
+    <string name="normal_range">18.5-24.5 كجم\\م2</string>
+    <string name="normal_description">يساعد هذا الوزن الصحي في تقليل مخاطر الإصابة بأمراض صحية خطيرة ويعني أنك قريب من أهداف اللياقة البدنية.</string>
+    <string name="overweight_type">زيادة وزن</string>
+    <string name="overweight_range_title">معدل الزيادة في الوزن</string>
+    <string name="overweight_range">25-29.9 كجم\\م2</string>
+    <string name="overweight_description">زيادة الوزن قد تزيد من خطر الإصابة بأمراض القلب والأوعية الدموية.</string>
+    <string name="obese_type">سمنة</string>
+    <string name="obese_range_title">معدل السمنة</string>
+    <string name="obese_range">اكبر من 30 كجم\\م2</string>
+    <string name="obese_description">الأشخاص الذين يعانون من السمنة هم في خطر متزايد للعديد من الأمراض والظروف الصحية</string>
+    <string name="save">حفظ النتيجة</string>
+    <string name="recalculate_bmi">اعادة حساب الكتلة</string>
+    <string name="screen_shot_popup">شاشة</string>
+    <string name="item_popup">عنصر</string>
+    <string name="close_popup">اغلاق</string>
+    <string name="toast_saved_image">تم حفظ الصورة في المسار التالي : FitCalcualtor/</string>
+    <string name="language_en">English</string>
+    <string name="language_ar">عربي</string>
+    <string name="saved">المخزنة</string>
+    <string name="alert_delete_title">انتبه</string>
+    <string name="alert_delete_messege">هل تريد حذف هذا العنصر ؟</string>
+    <string name="yes">نعم</string>
+    <string name="no">لا</string>
+    <string name="btn_calories">حساب احتياج السعرات</string>
+    <string name="calories_popup_text">النشاط البدني</string>
+    <string name="no_items">لا توجد عناصر</string>
+    <string name="food_nutirion">العناصر الغذائية</string>
+    <string name="food">الطعام</string>
+    <string name="execpetion_id">هذا العنصر متواجد بالفعل </string>
+    <string name="txt_category">الفئة</string>
+    <string name="vitamin">فيتامين ب</string>
+    <string name="food_calories">السعرات الحرارية</string>
+    <string name="fat_ratio">السمنة</string>
+    <string name="protein_ratio">البروتين</string>
+    <array name="physical_state">
+        <item>مجهود بدني ضعيف بدون ممارسات رياضية</item>
+        <item>تمرين خفيف حوالي 2-3 مرات في الاسبوع </item>
+        <item>تمرين معتدل حوالي 3-5 ايام في الاسبوع </item>
+        <item>تمرين قوي حوالي 6-7 ايام في الاسبوع </item>
+        <item>تمرين شاق جدا حوالي مرتين في اليوم </item>
+    </array>
+</resources>

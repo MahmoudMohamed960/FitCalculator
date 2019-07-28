@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@color/colorPrimary">
+    <Button
+            android:id="@+id/screen_save"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="@string/screen_shot_popup"
+            android:textColor="@color/white"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:gravity="center"
+            android:background="@color/colorPrimaryLight"
+    />
+    <Button
+            android:id="@+id/item_popup"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="@string/item_popup"
+            android:textColor="@color/white"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:gravity="center"
+            android:background="@color/colorPrimaryLight"
+
+    />
+    <Button
+            android:id="@+id/close_popup"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="@string/close_popup"
+            android:textColor="@color/white"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:gravity="center"
+            android:background="@color/colorPrimaryLight"
+            android:layout_marginBottom="20dp"
+    />
+
+</LinearLayout>
